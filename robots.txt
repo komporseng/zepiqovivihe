@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zepiqovivihe.netlify.app/sitemap.xml
